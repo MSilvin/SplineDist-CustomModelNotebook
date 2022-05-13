@@ -1,0 +1,11 @@
+Env: SplineDist
+Location: C:\ProgramData\Anaconda3\envs
+
+Installation env help: https://github.com/uhlmanngroup/splinedist/issues/2
+Installation via txt: conda create --name <env> --file requirements.txt
+
+Au démarrage Anaconda prompt
+	cd "là où on a clone le git"
+	conda activate SplineDist
+	jupyter notebook
+	
